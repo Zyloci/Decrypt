@@ -3,9 +3,9 @@
   Pedro Dalmazo Vaz
 # Classes
   -App
-   Class for executing the code
+   Class for executing the code.
   -Decrypter
-   Class for solving the encrypted message
+   Class for solving the encrypted message.
   *All methods have brief explanations of what they are trying to achieve.
 # Input&Output
    For the execution of this code the input  must come from  "SecretMessage.txt",  it  is  also possible  to alter file name  by changing  it in  the App class.
